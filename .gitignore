@@ -12,3 +12,7 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+# sublime text
+_config.sublime-workspace
+
